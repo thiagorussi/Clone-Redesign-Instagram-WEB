@@ -10,7 +10,7 @@
 <h1 align="center">Como criar esse projeto do zero</h1> 
 <div align="center">
 
-💻 **Acesse o código [aqui](https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/src/App.jsx)** |
+💻 **Acesse o código [aqui](https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/src/App.jsx)** |<br>
 
 
 </div>
@@ -29,7 +29,7 @@ https://instagramthiagorussi.netlify.app/
 
 Esse projeto foi feito para treinar habilidades com as tecnologias envolvidas, tendo como projeto um clone e redesign do Instagram web.
 
-Para os projetos foram usados como inspiração 2 design do site dribbble.com:<br>
+Para esse projeto foi usado como inspiração 2 design do site dribbble.com:<br>
 https://dribbble.com/shots/6580622-Instagram-Redesign-Concept-Desktop-ver<br>
 https://dribbble.com/shots/13971806-Instagram-Website-Redesign-Stories
 
