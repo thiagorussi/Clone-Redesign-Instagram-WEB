@@ -1,5 +1,5 @@
 
-  <h1 align="center">Cadastro de Livros</h1> 
+  <h1 align="center">Clone e Redesign Instagram WEB</h1> 
   <br><br>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 Esse projeto foi feito para treinar habilidades com as tecnologias envolvidas, tendo como projeto um clone e redesign do Instagram web.
 
-Para os projetos foram usados como inspiração 2 design do site dribbble.com:
-https://dribbble.com/shots/6580622-Instagram-Redesign-Concept-Desktop-ver
+Para os projetos foram usados como inspiração 2 design do site dribbble.com:<br>
+https://dribbble.com/shots/6580622-Instagram-Redesign-Concept-Desktop-ver<br>
 https://dribbble.com/shots/13971806-Instagram-Website-Redesign-Stories
 
 ## 🚀 Tecnologias utilizadas
