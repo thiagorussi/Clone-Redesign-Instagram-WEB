@@ -11,7 +11,7 @@
 <div align="center">
 
 💻 **Acesse o código [aqui](https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/src/App.jsx)** | 
- 
+👨🏻‍🔧 **Você pode testar o projeto aqui: https://instagramthiagorussi.netlify.app/
 
 </div>
 
