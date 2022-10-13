@@ -16,7 +16,7 @@
 </div>
 
 ## 👨🏻‍🔧 Você pode testar o projeto aqui:
-<div align="center">https://instagramthiagorussi.netlify.app/</div>
+- https://instagramthiagorussi.netlify.app/
 
 ## 📑 Índice
 
