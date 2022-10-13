@@ -3,7 +3,7 @@
   <br><br>
 
 <p align="center">
-  <img src="https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/20221013_195255.gif"/>
+  <img height="500px"  src="https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/20221013_195255.gif"/>
   <br><br>
 </p>
 
