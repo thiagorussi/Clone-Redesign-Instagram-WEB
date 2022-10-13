@@ -10,8 +10,8 @@
 <h1 align="center">Como criar esse projeto do zero</h1> 
 <div align="center">
 
-💻 **Acesse o código [aqui](https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/src/App.jsx)** | 
-👨🏻‍🔧 **Você pode testar o projeto aqui: https://instagramthiagorussi.netlify.app/
+💻 **Acesse o código [aqui](https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/src/App.jsx)** |<br>
+👨🏻‍🔧 Você pode testar o projeto aqui: https://instagramthiagorussi.netlify.app/
 
 </div>
 
