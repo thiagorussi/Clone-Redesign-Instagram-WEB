@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     border: 0;
-    /*box-sizing: border-box;  */
+    
 }
 
 *,
@@ -37,22 +37,17 @@ body {
     justify-content: center;
     background: rgb(170, 178, 252);
     background: linear-gradient(183deg, #aeb6ff 0%, rgb(255, 194, 248) 92%);
-    /*background: rgb(157,167,255);
-    background: linear-gradient(183deg, rgba(157,167,255,1) 0%, rgba(250,167,241,1) 92%);
-    */
+    
 
 }
 
 .main {
-    /* QUADRADO MENOR */
-    /*display: grid;
-    grid-template-columns: 1fr 3.3fr;*/
+    
     display: flex;
     flex-direction: grid;
     /* separando informações do perfil do resto */
     background: #ffffff63;
     height: 93vh;
-    /*width: 85%;*/
     -webkit-box-shadow: -8px 0px 21px -18px #000000;
     box-shadow: -8px 0px 21px -18px #000000;
     border-radius: 30px;
@@ -61,7 +56,7 @@ body {
 }
 
 .perfil {
-    /*ONDE ESTÁ FOTO PERFIL ETC*/
+    /*FOTO PERFIL*/
 
     width: 17rem;
     /*LARGURA DO PERFIL, PARTE MENU*/
@@ -96,7 +91,7 @@ body {
 }
 
 
-/* INICIO DA FOTO DO PERFIL, CIRCULO STORYS */
+/* FOTO DO PERFIL, CIRCULO STORYS */
 .story-container {
     text-align: center;
 }
@@ -202,11 +197,6 @@ body {
 .menu:hover {
     transform: scale(1.03);
 }
-
-/*#avatar2:hover path {
-    fill: #fce57e;
-    
-}*/
 
 #iconsMenu {
     width: 23px;
@@ -507,7 +497,6 @@ form {
     margin-bottom: 15px;
     break-inside: avoid-column;
     /*NÃO VAZAR CONTEÚDO PARA OUTRA COLUNA*/
-
 }
 
 .img-container img {
@@ -552,9 +541,6 @@ form {
     text-align: right;
     display: grid;
     grid-template-columns: 1fr 1fr;
-
-
-
 }
 
 .feedmain .card .card_likes .containercardlikes {

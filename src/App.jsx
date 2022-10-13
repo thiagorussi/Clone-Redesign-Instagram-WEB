@@ -16,7 +16,7 @@ function App() {
     const svgs = document.querySelectorAll('svg')
     
     for (let svg of svgs) {
-      svg.addEventListener("click", function(){  //evento click para fazer algo
+      svg.addEventListener("click", function(){ 
         svg.classList.toggle('active')
       })
     }  
