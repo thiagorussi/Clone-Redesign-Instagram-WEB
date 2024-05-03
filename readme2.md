@@ -24,7 +24,7 @@ uma combinação de componentes menores e encapsula o conteúdo e a lógica rela
 a essa página específica. As páginas geralmente são organizadas dentro do
 diretório pages .
 
-- Camada de Rotas: A camada de rotas é responsável por definir as rotas do aplicativo
+-- Camada de Rotas: A camada de rotas é responsável por definir as rotas do aplicativo
 e mapear as URLs para os componentes de página correspondentes. Nesta camada,
 geralmente usamos a biblioteca React Router Dom para configurar as rotas e navegação do aplicativo. As rotas são definidas dentro do diretório routes .
 
