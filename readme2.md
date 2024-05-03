@@ -1,7 +1,7 @@
 # Documentação do Front-end
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/pagehome.png"/>
   <br><br>
 </p>
 
@@ -73,8 +73,12 @@ rotas são definidas e os diferentes componentes da página são renderizados co
 
 - **./src/app.css:** Este arquivo contém estilos específicos do componente App ou estilos globais adicionais para o aplicativo.
 
+<p align="center">
+  <img src="[https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/caso%20de%20uso.png](https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/estrutura%20pastas.png)"/>
+  <br><br>
+</p>
 
-[![ Organização das pastas ](https://gitlab.digitro.com.br/csi-servicos/broker-meta/-/raw/main/modelo_api_com_mensageria_produtor/imgs/Diagrama_Modelo_API_com_mensageria.png " Organização das pastas ")](https://gitlab.digitro.com.br/csi-servicos/broker-meta/-/raw/main/modelo_api_com_mensageria_produtor/imgs/Diagrama_Modelo_API_com_mensageria.pngg " Organização das pastas ")
+
 
 ### Bibliotecas utilizadas:
 
@@ -98,7 +102,7 @@ rotas são definidas e os diferentes componentes da página são renderizados co
 ## Caso de Uso
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/thiagorussi/Clone-Redesign-Instagram-WEB/blob/main/caso%20de%20uso.png"/>
   <br><br>
 </p>
 
