@@ -104,6 +104,6 @@ rotas são definidas e os diferentes componentes da página são renderizados co
 
 ## Subindo o projeto
 
-- Clonar Repositório: `git clone `
+- Clonar Repositório: `git clone https://gitlab.digitro.com.br/csi-servicos/broker-meta.git `
 - Instalar dependências: `npm install`
 - Rodar Aplicação: `npm run dev`
