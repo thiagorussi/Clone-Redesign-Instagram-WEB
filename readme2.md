@@ -1,5 +1,9 @@
 # Documentação do Front-end
 
+<p align="center">
+  <img src=""/>
+  <br><br>
+</p>
 
 ## Getting started
 
@@ -93,6 +97,10 @@ rotas são definidas e os diferentes componentes da página são renderizados co
 
 ## Caso de Uso
 
+<p align="center">
+  <img src=""/>
+  <br><br>
+</p>
 
 ## Tecnologias utilizadas
 
