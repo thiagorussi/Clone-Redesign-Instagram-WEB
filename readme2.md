@@ -13,22 +13,21 @@ Essa arquitetura é baseada no padrão de design de componentes e segue a ideia 
 o aplicativo em camadas para uma melhor organização e manutenção do código.
 Aqui está uma explicação das camadas desta arquitetura:
 
-- Camada de Componentes: Esta é a camada mais baixa da arquitetura, onde os diferentes
+- **Camada de Componentes:** Esta é a camada mais baixa da arquitetura, onde os diferentes
 componentes do aplicativo são implementados. Cada componente React é
 uma peça isolada de UI, responsável por uma única funcionalidade específica. Os
 componentes podem ser reutilizados em várias partes do aplicativo, promovendo a modularidade e a reutilização do código.
 
-- Camada de Páginas: A camada de páginas contém os componentes de nível superior
+- **Camada de Páginas:** A camada de páginas contém os componentes de nível superior
 que representam as diferentes páginas ou rotas do aplicativo. Cada página pode conter
 uma combinação de componentes menores e encapsula o conteúdo e a lógica relacionados
-a essa página específica. As páginas geralmente são organizadas dentro do
-diretório pages .
+a essa página específica. As páginas geralmente são organizadas dentro do diretório **pages** .
 
-- Camada de Rotas: A camada de rotas é responsável por definir as rotas do aplicativo
+- **Camada de Rotas:** A camada de rotas é responsável por definir as rotas do aplicativo
 e mapear as URLs para os componentes de página correspondentes. Nesta camada,
-geralmente usamos a biblioteca React Router Dom para configurar as rotas e navegação do aplicativo. As rotas são definidas dentro do diretório routes .
+geralmente usamos a biblioteca React Router Dom para configurar as rotas e navegação do aplicativo. As rotas são definidas dentro do diretório **routes** .
 
-- Camada de Estilos Esta camada inclui arquivos CSS ou outros arquivos de estilo que
+- **Camada de Estilos:** Esta camada inclui arquivos CSS ou outros arquivos de estilo que
 são aplicados aos diferentes componentes do aplicativo. Os estilos podem ser globais,
 aplicados a todo o aplicativo, ou específicos para componentes individuais.
 
@@ -39,36 +38,36 @@ colaboração em equipe e a manutenção do código em projetos React.
 
 ## Diretórios utilizados
 
-- ./public: Este diretório contém os recursos estáticos do projeto, como o arquivo HTML
-principal ( index.html ), imagens, fontes, etc. O conteúdo deste diretório é acessível publicamente e é onde o aplicativo React é iniciado.
+- **./public:** Este diretório contém os recursos estáticos do projeto, como o arquivo HTML
+principal **( index.html )**, imagens, fontes, etc. O conteúdo deste diretório é acessível publicamente e é onde o aplicativo React é iniciado.
 
-- ./src: Este diretório contém todos os arquivos de código-fonte do aplicativo React.
+- **./src:** Este diretório contém todos os arquivos de código-fonte do aplicativo React.
 
-  - ./src/pages: Este diretório geralmente contém os componentes de nível de página
+  - **./src/pages:** Este diretório geralmente contém os componentes de nível de página
 do aplicativo. Cada arquivo neste diretório representa uma página ou rota diferente do aplicativo.
 
-  - ./src/routes Este diretório geralmente contém as definições de rotas do aplicativo.
+  - **./src/routes:** Este diretório geralmente contém as definições de rotas do aplicativo.
 Aqui você pode configurar as rotas usando uma biblioteca de roteamento, como o React Router Dom.
 
-  - ./src/theme: Este diretório pode conter arquivos relacionados ao estilo e design do
+  - **./src/theme:** Este diretório pode conter arquivos relacionados ao estilo e design do
 aplicativo, como arquivos CSS, variáveis de estilo, etc.
 
-  - ./src/components: Este diretório contém os componentes reutilizáveis do aplicativo que
+  - **./src/components:** Este diretório contém os componentes reutilizáveis do aplicativo que
 são usados em várias partes do aplicativo. Cada componente é geralmente responsável por uma única funcionalidade específica.
 
-    - ./src/components/section: Dentro do diretório de componentes, o diretório
-section pode conter componentes que representam seções específicas de uma
+    - **./src/components/section:** Dentro do diretório de componentes, o diretório
+**section** pode conter componentes que representam seções específicas de uma
 página. Esses componentes podem encapsular conteúdo relacionado e ajudar a organizar o layout da página de forma mais granular.
 
-- ./src/index.jsx: Este é o ponto de entrada principal do aplicativo React, onde o
+- **./src/index.jsx:** Este é o ponto de entrada principal do aplicativo React, onde o
 aplicativo é inicializado e renderizado na página HTML.
 
-- ./src/index.css: Este arquivo contém estilos globais que são aplicados em todo o aplicativo.
+- **./src/index.css:** Este arquivo contém estilos globais que são aplicados em todo o aplicativo.
 
-- ./src/app.jsx: Este arquivo contém o componente principal do aplicativo, onde as
+- **./src/app.jsx:** Este arquivo contém o componente principal do aplicativo, onde as
 rotas são definidas e os diferentes componentes da página são renderizados com base na URL.
 
-- ./src/app.css: Este arquivo contém estilos específicos do componente App ou estilos globais adicionais para o aplicativo.
+- **./src/app.css:** Este arquivo contém estilos específicos do componente App ou estilos globais adicionais para o aplicativo.
 
 
 [![ Organização das pastas ](https://gitlab.digitro.com.br/csi-servicos/broker-meta/-/raw/main/modelo_api_com_mensageria_produtor/imgs/Diagrama_Modelo_API_com_mensageria.png " Organização das pastas ")](https://gitlab.digitro.com.br/csi-servicos/broker-meta/-/raw/main/modelo_api_com_mensageria_produtor/imgs/Diagrama_Modelo_API_com_mensageria.pngg " Organização das pastas ")
